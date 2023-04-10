@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="center">Currently learning web development!</h3>
 
-- 🔭 I’m currently working on **a simple JS website**
+- 🔭 I’m currently working on **well nothing currently**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Kotlin!**
 
 - 💬 Ask me about **CSS, Ruby**
 
